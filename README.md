@@ -1,2 +1,4 @@
 # iptables-scripts
-a couple of bash scripts for configuring several types of firewalls
+If you ever need scripts to automate your firewalls via IPTables in CentOS (7/8). This should help. 
+
+To install it use the 'git clone' command followed by my repo. 
